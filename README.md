@@ -32,7 +32,8 @@ This project is a responsive, interactive comments section that allows users to 
 
 ## Live Demo
 
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://interactive-comment-section-rouge.vercel.app/)
+- [Github repo](https://github.com/PCollinx/interactive_comment_section.git)
 
 ## Built With
 
